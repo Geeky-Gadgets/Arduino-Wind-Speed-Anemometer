@@ -1,4 +1,4 @@
-# Arduino-Wind-Speed-Anemometer
+# Arduino Wind Speed Anemometer Project
 Search Results for: Arduino Wind DIY Arduino Wind Speed Meter Anemometer Project
 Project page on Geeky Gadgets :
 
